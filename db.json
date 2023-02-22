@@ -76,7 +76,7 @@
       "id": 12,
       "nombre": "Torta de platano",
       "precio": 10,
-      "categoria": "Pizza"
+      "categoria": 3
     }
   ]
 }
