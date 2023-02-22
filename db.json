@@ -3,31 +3,31 @@
     {
       "id": 1,
       "nombre": "Pizza pequeña",
-      "precio": "10",
+      "precio": 10,
       "categoria": 1
     },
      {
       "id": 1,
       "nombre": "Pizza mediana",
-      "precio": "20",
+      "precio": 20,
       "categoria":1
     },
      {
       "id": 2,
       "nombre": "Pizza grande",
-      "precio": "10",
+      "precio": 10,
       "categoria":1
      },
      {
       "id": 3,
       "nombre": "jugo de fresa",
-      "precio": "12",
+      "precio": 12,
       "categoria": 2
     },
      {
       "id": 4,
       "nombre": "jugo de mango",
-      "precio": "12",
+      "precio": 12,
       "categoria": 2
     },
      {
@@ -39,43 +39,43 @@
      {
       "id": 6,
       "nombre": "jugo de papaya",
-      "precio": "13",
+      "precio": 13,
       "categoria": 2
     },
      {
       "id": 7,
       "nombre": "Café expresso",
-      "precio": "5",
+      "precio": 5,
       "categoria": 2
     },
      {
       "id": 8,
       "nombre": "Café machiato",
-      "precio": "7",
+      "precio": 7,
       "categoria": 2
     },
      {
       "id": 9,
       "nombre": "Café capuchino",
-      "precio": "10",
+      "precio": 10,
       "categoria": 2
     },
      {
       "id": 10,
       "nombre": "torta de chocolate",
-      "precio": "11",
+      "precio": 11,
       "categoria": 3
     },
      {
       "id": 11,
       "nombre": "torta de fresa",
-      "precio": "11",
+      "precio": 12,
       "categoria": 3
     },
      {
       "id": 12,
       "nombre": "Torta de platano",
-      "precio": "10",
+      "precio": 10,
       "categoria": "Pizza"
     }
   ]
